@@ -1,0 +1,16 @@
+header form{
+    margin-left: 270px;
+}
+
+header h3{
+    color: WHITE;
+    margin-left: 570px;
+}
+
+.row .col {
+    background-color: rgb(88, 49, 49);
+}
+.row .col .card-text{
+    color: rgb(54, 14, 54);
+    background-color: rgb(231, 197, 197);
+}
